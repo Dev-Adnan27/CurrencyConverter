@@ -1,0 +1,13 @@
+C:\Users\adnan\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\adnan\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\adnan\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConverter.resources
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\adnan\source\repos\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adnan\source\repos\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adnan\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
